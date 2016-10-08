@@ -8,7 +8,13 @@ var config = {
   entry: DEV + "/index.jsx",
   output: {
     path: OUTPUT,
-    filename: "bundle.js"
+    filename: "myCode.js"
+  },
+  module: {
+    loaders: [{
+      include: DEV,
+      loader: "babel",
+    }]
   }
 };
 
