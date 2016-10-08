@@ -1,0 +1,28 @@
+{
+  "name": "react_banjo",
+  "version": "1.0.0",
+  "description": "Full Banjo Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redhendery/ReactBanjo.git"
+  },
+  "keywords": [
+    "Full",
+    "Banjo",
+    "Website"
+  ],
+  "author": "Red Hendery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redhendery/ReactBanjo/issues"
+  },
+  "homepage": "https://github.com/redhendery/ReactBanjo#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
